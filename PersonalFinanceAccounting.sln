@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceAccounting", "PersonalFinanceAccounting\PersonalFinanceAccounting.csproj", "{48A161E1-95BD-4FEB-BFE3-4A069601E40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceAccounting.Application", "PersonalFinanceAccounting.Application\PersonalFinanceAccounting.Application.csproj", "{FC6B533E-E0AF-42C5-A13A-015FB3348F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceAccounting.Infrastructure", "PersonalFinanceAccounting.Infrastructure\PersonalFinanceAccounting.Infrastructure.csproj", "{524173E4-E071-4FA0-B574-06999271E471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A161E1-95BD-4FEB-BFE3-4A069601E40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A161E1-95BD-4FEB-BFE3-4A069601E40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A161E1-95BD-4FEB-BFE3-4A069601E40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A161E1-95BD-4FEB-BFE3-4A069601E40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6B533E-E0AF-42C5-A13A-015FB3348F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6B533E-E0AF-42C5-A13A-015FB3348F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6B533E-E0AF-42C5-A13A-015FB3348F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6B533E-E0AF-42C5-A13A-015FB3348F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524173E4-E071-4FA0-B574-06999271E471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524173E4-E071-4FA0-B574-06999271E471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524173E4-E071-4FA0-B574-06999271E471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524173E4-E071-4FA0-B574-06999271E471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
